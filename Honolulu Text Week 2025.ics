@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Company//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:honolulu-tech-week-2025@yourcompany.com
+DTSTAMP:20250103T210000Z
+DTSTART:20250908T200000Z
+DTEND:20250915T095900Z
+SUMMARY:Honolulu Tech Week 2025
+LOCATION:honolulutechweek.com
+DESCRIPTION:Honolulu Tech Week is Hawaii's leading technology festival. Experience Hawaii's tech community come alive. Join us for a week of events across Honolulu hosted by industry leaders, startups, corporate executives, investors, policy makers, and educators.
+END:VEVENT
+END:VCALENDAR
